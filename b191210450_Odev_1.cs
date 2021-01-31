@@ -6,18 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
 
-/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					2020-2021 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........: 
-**				ÖĞRENCİ ADI............: EMİR ÖNDER DEMİRCAN
-**				ÖĞRENCİ NUMARASI.......: b191210450
-**              DERSİN ALINDIĞI GRUP...: 1-A
-****************************************************************************/
 
 namespace ÖDEV1
 {
